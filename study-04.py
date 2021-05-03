@@ -1,3 +1,6 @@
+#https://www.acmicpc.net/problem/1543
+
+#Sol: b의 길이만큼 a를 자르면서 비교후 카운팅 해준다.
 a = 'ababababa'
 b = 'aba'
 len_a = len(a)
