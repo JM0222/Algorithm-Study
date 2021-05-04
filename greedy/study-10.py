@@ -1,4 +1,5 @@
 #https://www.acmicpc.net/problem/2839
+# 10분
 a = int(input())
 box = 0
 while True:

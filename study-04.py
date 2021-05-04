@@ -8,9 +8,9 @@ len_b = len(b)
 i = 0
 answer = 0
 while i <= len_a - len_b:
-    if a[i:i+len_b] == b:
+    if a[i:i+len_b] == b: # 같은경우 answer += 1 , 인덱스는 len_b만큼증가
         answer += 1
-        i += len_b
+        i += len_b 
     else:
         i += 1
 print(answer)

@@ -1,6 +1,6 @@
 # https://www.acmicpc.net/problem/9012
 
-# 시간: 20분 
+# 시간: 15분 
 n = int(input())
 def vps(a):
     stack = []
