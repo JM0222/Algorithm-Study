@@ -1,3 +1,4 @@
+#https://www.acmicpc.net/problem/1012
 from collections import deque
 tc = int(input())
 for i in range(tc):
